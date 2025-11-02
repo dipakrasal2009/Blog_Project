@@ -2,7 +2,7 @@
 
 A **complete, professional, error-free** blog writing platform built with Flask, HTML5, CSS3, JavaScript, and SQLite database.
 
-## 🎯 Project Overview....
+## 🎯 Project Overview......
 
 This is a fully functional blog writing platform that allows users to:
 - ✅ Create accounts and authenticate securely
