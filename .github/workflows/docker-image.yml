@@ -1,7 +1,7 @@
 name: blog-project
 
 on:
-  schedule:
+  #schedule:
   #  - cron: '35 4 * * *'  # Runs daily at 4:35 AM UTC
   push:
     branches: ["main"]
