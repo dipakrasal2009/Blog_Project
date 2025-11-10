@@ -13,7 +13,7 @@ This is a fully functional blog writing platform that allows users to:
 - ✅ Professional responsive design that works on all devices
 - ✅ Complete user management and dashboard
 
-## 🛠️ Technology Stack
+## 🛠️ Technology Stack....
 
 **Frontend:**
 - HTML5 with semantic structure and accessibility
